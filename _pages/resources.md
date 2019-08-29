@@ -1,13 +1,15 @@
 ---
 layout: single
-title: "Media"
-permalink: /media/
-date: 2018-4-18
+title: "resources"
+permalink: /resources/
+date: 2019-8-29
 categories: pages
 ---
-## Web Content
-{% include video id="CVL0UlOWFQc" provider="youtube" %}
-**Description:** Nanoclusters (very small metal nanoparticles) represent an exciting newer class of nanoparticles that are being used in applications from drug delivery to catalysis. Towards developing a better understanding of their stability we have developed a [new theory](https://www.nature.com/articles/ncomms15988). In this video we explain this new theory and describe its significance. 
+## Teaching
+[Interactive 3D high-pressure phase diagram](https://sketchfab.com/kshi/collections/3d-high-pressure-phase-diagram)
+
+
+
 ## Journal Covers
 {% include figure image_path="/assets/images/jpcl_cover.jpg" %}
 **Description:** Our [work](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02679) on heterometal doping in atomically-precise ligand-protectect nanoclusters  was highlighted as both a [cover](https://pubs.acs.org/toc/jpclcd/9/23) and [spotlight](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b03570) in JPCL. Very excited to have the work highlighted!
