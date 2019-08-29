@@ -48,12 +48,12 @@
         </li>
       {% endif %}
 
-      {% if author.uri %}
-        <li>
-          <a href="{{ author.uri }}" itemprop="url">
-            <i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Google Scholar" }}
-          </a>
-        </li>
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
 
       {% if author.email %}
@@ -210,7 +210,7 @@
           </li>
         {% else author.youtube %}
           <li>
-            <a href="https://www.youtube.com/user/{{ author.youtube }}" itemprop="sameAs">
+            <a href="https://www.youtube.com/{{ author.youtube }}" itemprop="sameAs">
               <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube
             </a>
           </li>
