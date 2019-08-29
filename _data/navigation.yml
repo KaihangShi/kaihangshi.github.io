@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Research"
+  - title: "My Research"
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Media"
-    url: /media/
+  - title: "Resources"
+    url: /resources/
   - title: "CV"
-    url: /assets/docs/MGT_CV.pdf
+    url: /assets/docs/Kaihang_Shi_CV.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
