@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MGT"
+title                    : "KS"
 title_separator          : "-"
-name                     : "Michael G. Taylor"
-description              : "Computational Chemist - Postdoctoral Scholar"
-url                      : "https://mgt16.github.io"
+name                     : "Kaihang Shi"
+description              : "Chemical Engineer - PhD Candidate"
+url                      : "https://kaihangshi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mgt16/mgt16.github.io"
+repository               : "kaihangshi/kaihangshi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -97,12 +97,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael G. Taylor"
+  name             : "Kaihang Shi"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Postdoctoral Scholar, Massachussets Institute of Technology (MIT)"
-  location         : "Cambridge, MA"
-  email            : "mgt16@mit.edu"
-  uri              : "https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en"
+  bio              : "PhD student in Gubbins group, North Carolina State University"
+  location         : "Raleigh, NC"
+  email            : "kshi3@ncsu.edu"
+  uri              : #"https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -110,13 +110,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mgt16"
+  github           : "KaihangShi"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=oONsXYAAAAAJ&hl=en"
+  researchgate     :  "https://www.researchgate.net/profile/Kaihang_Shi"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "michael-taylor-04968941"
+  linkedin         : #"michael-taylor-04968941"
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
