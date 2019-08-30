@@ -3,27 +3,19 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals."
 permalink: /publications/
-date: 2018-4-23
+date: 2019-8-29
 categories: pages
 toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
-Links and overview images of all of my academic publications.
+
+## 2019
+### Bottom-Up Approach to the Coarse-Grained Surface Model: Effective Solid–Fluid Potentials for Adsorption on Heterogeneous Surfaces
+{% include figure image_path="/assets/images/langmuir2019.tif" %}
+[K. Shi, E.E. Santiso, K.E. Gubbins, **Langmuir**. 35 (2019) 5975–5986.](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)
 
 ## 2018
-### Rethinking Heterometal Doping in Nanoclusters
-{% include figure image_path="/assets/images/jpcl2018.png" %}
-[M. G. Taylor and  G. Mpourmpakis. “Rethinking Heterometal Doping in Ligand-Protected Metal Nanoclusters”. In: **Journal of Physical Chemistry Letters** Just Accepted (Oct. 2018), doi: 10.1021/acs.jpclett.8b02679](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02679)
-
-### Kidney Stone Growth Modifier Comparison
-{% include figure image_path="/assets/images/cgad2018_toc.png" %}
-[J. Chung, M. G. Taylor, I. Granja, J. R. Asplin, G. Mpourmpakis, and J. D. Rimer. “Factors Differentiating the Effectiveness of Polyprotic Acids as Inhibitors of Calcium Oxalate Crystallization in Kidney Stone Disease”. In: **Crystal Growth & Design** 18.9 (2018), pp. 5617-5627. doi: 10.1021/acs.cgd.8b00945](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.8b00945)
-
-### Bond-Centric Model
-{% include figure image_path="/assets/images/nanolett_toc.png" %}
-[Z. Yan, M.G. Taylor, A. Mascareno, and G. Mpourmpakis."Size-,Shape-, and Composition-Dependent Model for Metal Nanoparticle Stability Prediction". In: **Nano Letters** 18.4 (2018), pp. 2696-2704. doi: 10.1021/acs.nanolett.8b00670](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b00670)
-## 2017
 ### Cadmium-Doped Au<sub>23</sub> Nanocluster
 {% include figure image_path="/assets/images/jacs2017_toc.gif" %}
 [Q. Li, K. J. Lambright, M. G. Taylor, K. Kirschbaum, T.-Y. Luo, J. Zhao, G. Mpourmpakis, S. Mokashi-Punekar, N. L. Rosi, and R. Jin. “Reconstructing the Surface of Gold Nanoclusters by Cadmium Doping”. In: **Journal of the American Chemical Society** 139.49 (2017), pp. 17779–17782. doi: 10.1021/jacs.7b11491.](https://pubs.acs.org/doi/abs/10.1021/jacs.7b11491)
