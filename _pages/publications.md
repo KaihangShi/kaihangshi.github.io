@@ -12,22 +12,17 @@ toc_icon: "columns"
 
 ## 2019
 ### Bottom-Up Approach to the Coarse-Grained Surface Model: Effective Solid–Fluid Potentials for Adsorption on Heterogeneous Surfaces
-{% include figure image_path="/assets/images/langmuir2019.tif" %}
+{% include figure image_path="/assets/images/langmuir2019.png" %}
 [K. Shi, E.E. Santiso, K.E. Gubbins, **Langmuir**. 35 (2019) 5975–5986.](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)
 
 ## 2018
-### Cadmium-Doped Au<sub>23</sub> Nanocluster
-{% include figure image_path="/assets/images/jacs2017_toc.gif" %}
-[Q. Li, K. J. Lambright, M. G. Taylor, K. Kirschbaum, T.-Y. Luo, J. Zhao, G. Mpourmpakis, S. Mokashi-Punekar, N. L. Rosi, and R. Jin. “Reconstructing the Surface of Gold Nanoclusters by Cadmium Doping”. In: **Journal of the American Chemical Society** 139.49 (2017), pp. 17779–17782. doi: 10.1021/jacs.7b11491.](https://pubs.acs.org/doi/abs/10.1021/jacs.7b11491)
-### Silver-Doped Au<sub>24</sub> Nanocluster
-{% include figure image_path="/assets/images/jcis2017_toc.jpg" %}
-[Q. Li, M. G. Taylor, K. Kirschbaum, K. J. Lambright, X. Zhu, G. Mpourmpakis, and R. Jin. “Site-selective substitution of gold atoms in the Au<sub>24</sub>(SR)<sub>20</sub> nanocluster by silver”. In: **Journal of Colloid and Interface Science** 505 (2017), pp. 1202–1207. doi: 10.1016/j.jcis.2017.06.049.](https://www.sciencedirect.com/science/article/pii/S0021979717307038)
-### Thermodynamic Stability Model
-{% include figure image_path="/assets/images/natcomm2017_toc.png" %}
-[M. G. Taylor and G. Mpourmpakis. “Thermodynamic Stability of Ligand-Protected Metal Nanoclusters”. In: **Nature Communications** 8 (2017), p. 15988. doi: 10.1038/ncomms15988.](https://www.nature.com/articles/ncomms15988)
-### Molecular "Surgery"
-{% include figure image_path="/assets/images/sciadv2017_toc.jpg" %}
-[Q. Li, T.-y. Luo, M. G. Taylor, S. Wang, X. Zhu, Y. Song, G. Mpourmpakis, N. L. Rosi, and R. Jin. “Molecular "surgery" on a 23-gold-atom nanoparticle”. In: **Science Advances** 3.5 (2017), e1603193. doi: 10.1126/sciadv.1603193.](http://advances.sciencemag.org/content/3/5/e1603193)
+### Surface-Driven High-Pressure Processing
+[K.E. Gubbins, K. Gu, L. Huang, Y. Long, J.M. Mansell, E.E. Santiso, K. Shi, M. Śliwińska-Bartkowiak, D. Srivastava, **Engineering**. 4 (2018) 311–320.](https://www.sciencedirect.com/science/article/pii/S2095809917308354)
+
+### High-density equation of state for a two-dimensional Lennard-Jones solid
+{% include figure image_path="/assets/images/jcp2018.png" %}
+[K. Shi, K. Gu, Y. Shen, D. Srivastava, E.E. Santiso, K.E. Gubbins, **J. Chem. Phys.** 148 (2018) 174505.](https://aip.scitation.org/doi/abs/10.1063/1.5029488)
+
 ## 2016
 ### Kidney Stone Inhibtion
 {% include figure image_path="/assets/images/nature2016_toc.png" %}
