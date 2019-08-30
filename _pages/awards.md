@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awards"
+title: "Awards and Honors"
 permalink: /awards/
 date: 2019-8-30
 categories: pages
