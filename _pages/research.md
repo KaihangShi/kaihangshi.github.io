@@ -5,12 +5,17 @@ permalink: /research/
 date: 2019-8-30
 categories: pages
 ---
+### Thermodynamics of Thin Adsorbed Films 
+
+
+
+
 
 ### Adsorption on Heterogeneous Surfaces
 
 
 
 
-### Thermodynamics of Thin Adsorbed Films Near an Interface
+
 
 
