@@ -6,10 +6,10 @@ main:
     url: /publications/
   - title: "Awards"
     url: /awards/
-  - title: "Resources"
-    url: /resources/
-  - title: "CV"
-    url: /assets/docs/Kaihang_Shi_CV.pdf
+  #- title: "Resources"
+  #  url: /resources/
+  #- title: "CV"
+  #  url: /assets/docs/Kaihang_Shi_CV.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
