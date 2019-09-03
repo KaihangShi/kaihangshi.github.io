@@ -7,7 +7,7 @@ categories: pages
 ---
 
 ## Pressure Enhancement in Adsorbed Films for Future High-Pressure Processing
-I applied molecular simulations and statistical mechanics to understand the physics behind strong compression and the induced high pressure (as high as tens of thousands of bars) in adsorbed layers which would lead to [a ‘green’ route to the future high-pressure manufacturing](https://www.sciencedirect.com/science/article/pii/S2095809917308354). We are developing a new experimental route to estimate the in-layer effective tangential pressure that was found to be the main driving force for high pressure phenomena in pores. The goal of this project is to be able to design high-pressure chemical reactions or separation process that requires a fine control of the microscopic pressure. 
+I applied molecular simulations and statistical mechanics to understand the physics behind strong compression and the induced high pressure (as high as tens of thousands of bars) in adsorbed layers which would lead to [a ‘green’ route to the future high-pressure manufacturing](https://www.sciencedirect.com/science/article/pii/S2095809917308354). We are developing a new experimental route to estimate the in-layer effective tangential pressure which was found to be the main driving force for high pressure phenomena in pores. The goal of this project is to be able to design high-pressure chemical reactions or separation process that requires a fine control of the microscopic pressure. 
 
 
 
