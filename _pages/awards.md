@@ -12,7 +12,7 @@ categories: pages
 - **[Outstanding Poster Presentation Prize](http://cpm8.rutgers.edu/gallery/cpm8/94.JPG)**, **2018**.
 >“Conformal Sites Model for Adsorbed Films on Energetically Heterogeneous Surfaces”, presented at 8th International Workshop on Characterization of Porous Materials (CPM8), Delray Beach, FL, USA, May 7, 2018.
 
-- ***Cheng Siwei* Chancellor’s Fellowship**, ECUST, **2014**.
+- ***Cheng Siwei (成思危)* Chancellor’s Fellowship**, ECUST, **2014**.
 > The highest university-wide annual award recognizing undergraduate, master and doctoral students who have won high reputation or made important contributions to the university and the country.
 
 - **Special Prize for Academic Excellence (top 1%)**, ECUST, **2014**.
