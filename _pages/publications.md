@@ -11,8 +11,7 @@ toc_icon: "columns"
 ---
 ## 2019
 ### Bottom-Up Approach to the Coarse-Grained Surface Model: Effective Solid–Fluid Potentials for Adsorption on Heterogeneous Surfaces
-{% include figure image_path="/assets/images/langmuir2019.png" %}
-[**K. Shi**, E.E. Santiso, K.E. Gubbins, *Langmuir*. 35 (2019) 5975–5986.](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)
+{% include figure image_path="/assets/images/langmuir2019.png" caption="[**K. Shi**, E.E. Santiso, K.E. Gubbins, *Langmuir*. 35 (2019) 5975–5986.](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)" %}
 
 ## 2018
 ### Surface-Driven High-Pressure Processing
