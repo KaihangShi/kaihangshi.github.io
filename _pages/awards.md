@@ -2,11 +2,11 @@
 layout: single
 title: "Awards and Honors"
 permalink: /awards/
-date: 2019-11-15
+date: 2019-11-16
 categories: pages
 ---
 ## Academic
-- **[AIChE CoMSEF Graduate Student Award](http://comsef.org/gradawards)**, **2019**.
+- **[AIChE CoMSEF Graduate Student Award](https://www.aiche.org/community/awards/comsef-graduate-student-award)**, **2019**.
 >AIChE's Computational Molecular Science and Engineering Forum (CoMSEF) graduate student awards recognize excellence in research by graduate students. The intent of the awards is to reward significant contributions to research in computational molecular science and engineering by students. The award consists of a certificate and an honorarium.
 
 - **[FOMMS Poster Prize](https://www.cbe.ncsu.edu/blog/2018/09/15/alum-dr-feng-he-and-graduate-students-vasudev-haribal-kaihang-shi-received-important-awards/)**, **2018**.
