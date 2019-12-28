@@ -3,13 +3,16 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals."
 permalink: /publications/
-date: 2019-8-29
+date: 2019-12-27
 categories: pages
 toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2019
+### Packing density, homogeneity, and regularity: quantitative correlations between topology and thermoresponsive morphology of PNIPAM-co-PAA microgel coatings
+{% include figure image_path="/assets/images/cutright_etal_ass_2019.jpg" caption="[C. Cutright, Z. Brotherton, L. Alexandera, J. Harris, **K. Shi**, S. Khan, J. Genzer, S. Menegatti, *Applied Surface Science*. in press.](https://www.sciencedirect.com/science/article/abs/pii/S0169433219339467)" %}
+
 ### Bottom-Up Approach to the Coarse-Grained Surface Model: Effective Solid–Fluid Potentials for Adsorption on Heterogeneous Surfaces
 {% include figure image_path="/assets/images/langmuir2019.png" caption="[**K. Shi**, E.E. Santiso, K.E. Gubbins, *Langmuir*. 35 (2019) 5975–5986.](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)" %}
 
