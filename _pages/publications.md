@@ -14,7 +14,7 @@ toc_icon: "columns"
 {% include figure image_path="/assets/images/langmuir2020.jpg" caption="[**K. Shi**, E. E. Santiso and K. E. Gubbins, *Langmuir*. in press.](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b03633)" %}
 
 ### Fabrication of Freestanding Metal Organic Framework Predominant Hollow Fiber Mat and Its Potential Applications in Gas Separation and Catalysis
-{% include figure image_path="/assets/images/JMCA2020.jpg" caption="[Z. Dai, D. Lee, **K. Shi**, S. Wang, H. Barton, J. Zhu, J. Yan, Q. Ke, G. Parsons, *Journal of Materials Chemistry A*. in press.](https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11701f)" %}
+{% include figure image_path="/assets/images/DaiJMCA2020.jpg" caption="[Z. Dai, D. Lee, **K. Shi**, S. Wang, H. Barton, J. Zhu, J. Yan, Q. Ke, G. Parsons, *Journal of Materials Chemistry A*. in press.](https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11701f)" %}
 
 ### Packing density, homogeneity, and regularity: quantitative correlations between topology and thermoresponsive morphology of PNIPAM-co-PAA microgel coatings
 {% include figure image_path="/assets/images/cutright_etal_ass_2019.jpg" caption="[C. Cutright, Z. Brotherton, L. Alexandera, J. Harris, **K. Shi**, S. Khan, J. Genzer, S. Menegatti, *Applied Surface Science*. 508 (2020) 145129.](https://www.sciencedirect.com/science/article/abs/pii/S0169433219339467)" %}
