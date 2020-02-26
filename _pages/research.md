@@ -14,7 +14,7 @@ I applied molecular simulations and statistical mechanics to understand the phys
 
 ## Adsorption on Heterogeneous Surfaces
 Most surfaces exhibit roughness through geometric curvature, variations of surface composition and chemical groups attached to the surfaces. We are developing advanced statistical mechanical models for the adsorption on heterogeneous surfaces. We are also exploring the possibilities of incorporating the developed theories into the software of the experimental instruments to predict the adsorption properties and to characterize the solid substrate. 
-{% include figure image_path="/assets/images/cst_art_langmuir.png" caption="The [Conformal Sites Theory](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b03633) maps a real surface onto a ideal reference surface. The art was created by POV-Ray, source file can be found [here](https://github.com/KaihangShi/kaihangshi.github.io/tree/master/assets/docs/cst_art.pov)" %}
+{% include figure image_path="/assets/images/cst_art_langmuir.png" caption="The [Conformal Sites Theory](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b03633) maps a real surface onto an ideal reference surface. The art was created by POV-Ray, source file can be found [here](https://github.com/KaihangShi/kaihangshi.github.io/tree/master/assets/docs/cst_art.pov)" %}
 
 
 
