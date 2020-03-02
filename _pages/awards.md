@@ -7,7 +7,7 @@ categories: pages
 ---
 ## Academic
 - **[AIChE CoMSEF Graduate Student Award](https://www.aiche.org/community/awards/comsef-graduate-student-award)**, **2019**.
->AIChE's Computational Molecular Science and Engineering Forum (CoMSEF) graduate student awards recognize excellence in research by graduate students. The intent of this national awards is to reward significant contributions to research in computational molecular science and engineering by students. 
+>AIChE's Computational Molecular Science and Engineering Forum (CoMSEF) graduate student awards recognize significant contributions to research in computational molecular science and engineering by graduate students. 
 
 - **[FOMMS Poster Prize](https://www.cbe.ncsu.edu/blog/2018/09/15/alum-dr-feng-he-and-graduate-students-vasudev-haribal-kaihang-shi-received-important-awards/)**, **2018**.
 >“A ‘2D Route’ to the Effective Tangential Pressure in Adsorbed Films: High-Density Equation of State for a Two-Dimensional Lennard-Jones Solid”, presented at Foundations of Molecular Modeling and Simulation (FOMMS), Delavan, WI, USA, July 18, 2018.
