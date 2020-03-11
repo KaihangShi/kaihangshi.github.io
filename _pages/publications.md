@@ -11,7 +11,7 @@ toc_icon: "columns"
 ---
 ## 2020
 ### Modified Graphene Oxide (GO) Particles in Peptide Hydrogels: A Hybrid System Enabling Scheduled Delivery of Synergistic Combinations of Chemotherapeutics
-{% include figure image_path="/assets/images/jmcb2020.jpg" caption="[J. D. Schneible, **K. Shi**, A. T. Young, S. Ramesh, N. He, C. E. Dowdey, R. L. Lilova, W. Gao, E. E. Santiso, M. Daniele and S. Menegatti, *Journal of Materials Chemistry B*. in press.](https://pubs.rsc.org/en/content/articlehtml/2020/tb/d0tb00064g)" %}
+{% include figure image_path="/assets/images/jmcb2020.png" caption="[J. D. Schneible, **K. Shi**, A. T. Young, S. Ramesh, N. He, C. E. Dowdey, R. L. Lilova, W. Gao, E. E. Santiso, M. Daniele and S. Menegatti, *Journal of Materials Chemistry B*. in press.](https://pubs.rsc.org/en/content/articlehtml/2020/tb/d0tb00064g)" %}
 
 ### Conformal Sites Theory for Adsorbed Films on Energetically Heterogeneous Surfaces
 {% include figure image_path="/assets/images/langmuir2020.jpg" caption="[**K. Shi**, E. E. Santiso and K. E. Gubbins, *Langmuir*. in press.](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b03633)" %}
