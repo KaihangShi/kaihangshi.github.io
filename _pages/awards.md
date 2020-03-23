@@ -6,7 +6,7 @@ date: 2019-11-16
 categories: pages
 ---
 ## Academic
-- **[AIChE CoMSEF Graduate Student Award](https://www.aiche.org/community/awards/comsef-graduate-student-award)**, **2019**.
+- **[AIChE CoMSEF Graduate Student Award](http://comsef.org/gradawards)**, **2019**.
 >This national award recognizes significant contributions to research in computational molecular science and engineering by graduate students. 
 
 - **[FOMMS Poster Prize](https://www.cbe.ncsu.edu/blog/2018/09/15/alum-dr-feng-he-and-graduate-students-vasudev-haribal-kaihang-shi-received-important-awards/)**, **2018**.
