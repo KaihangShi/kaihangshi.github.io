@@ -7,6 +7,7 @@ categories: pages
 ---
 <br />
 *Here are some notes I wrote to clarify the concepts and confusions on different topics. If you spot any errors on my notes, please feel free to contact me at kshi3@ncsu.edu!*
+
 <br />
 
 [Theory behind the string method in collective variables](http://https://kaihangshi.github.io/assets/docs/smcv.pdf)
