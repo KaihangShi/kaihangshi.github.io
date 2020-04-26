@@ -4,6 +4,9 @@ title: "Awards and Honors"
 permalink: /awards/
 date: 2019-11-16
 categories: pages
+toc: true
+toc_label: "Category"
+toc_icon: "columns"
 ---
 ## Academic
 - **[AIChE CoMSEF Graduate Student Award](http://comsef.org/gradawards)**, **2019**.
