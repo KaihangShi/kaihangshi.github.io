@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Teaching Experience"
 permalink: /teaching/
 date: 2020-04-26
@@ -14,7 +14,7 @@ categories: pages
 
 **Guest Lecturer**, CHE775 Multi-Scale Modeling of Matter, NCSU, 2019 Spring.
 
-**Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2018 Fall. [(Teaching Evaluation)](kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2018fall.pdf)
+**Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2018 Fall. [(Teaching Evaluation)](http://kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2018fall.pdf)
 
 **Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2017 Fall.
 
