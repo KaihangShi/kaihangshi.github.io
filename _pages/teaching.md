@@ -17,9 +17,9 @@ categories: pages
 
 **Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2018 Fall. [(Teaching Evaluation)](http://kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2018fall.pdf)
 
-**Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2017 Fall.[(Teaching Evaluation)](http://kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2017fall.pdf)
+**Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2017 Fall. [(Teaching Evaluation)](http://kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2017fall.pdf)
 
-**Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2016 Fall.[(Teaching Evaluation)](http://kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2016fall.pdf)
+**Teaching Assistant**, CHE713 Graduate Thermodynamics, NCSU, 2016 Fall. [(Teaching Evaluation)](http://kaihangshi.github.io/assets/docs/teaching/CHE713_students_comments_2016fall.pdf)
 
 **Teaching Assistant**, CHE331 Chemical Engineering Lab II, NCSU, 2016 Spring.
 
