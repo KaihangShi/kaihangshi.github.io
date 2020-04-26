@@ -10,9 +10,13 @@ categories: pages
 <br />
 
 [Theory behind the string method in collective variables](http://https://kaihangshi.github.io/assets/docs/smcv.pdf)
+
 [Why do we use the natural log base in statistical mechanics?](http://https://kaihangshi.github.io/assets/docs/loge_in_sm.pdf)
+
 [Can Ewald summation method deal with non-neutrality in 2D and 3D system?](http://https://kaihangshi.github.io/assets/docs/ewald.pdf)
+
 [Radial distribution function](http://https://kaihangshi.github.io/assets/docs/rdf.pdf)
+
 [Efficiency of the Carnot cycle](http://https://kaihangshi.github.io/assets/docs/carnot.pdf)
 
 
