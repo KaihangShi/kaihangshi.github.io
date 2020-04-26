@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Resources"
-permalink: /resources/
+title: "Notes"
+permalink: /notes/
 date: 2019-8-31
 categories: pages
 ---
