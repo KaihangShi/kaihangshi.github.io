@@ -9,4 +9,28 @@ toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
-dd
+## 2020
+{% include figure image_path="/assets/images/jmcb2020.png" caption="J. D. Schneible, **K. Shi**, A. T. Young, S. Ramesh, N. He, C. E. Dowdey, R. L. Lilova, W. Gao, E. E. Santiso, M. Daniele and S. Menegatti, 'Modified Graphene Oxide (GO) Particles in Peptide Hydrogels: A Hybrid System Enabling Scheduled Delivery of Synergistic Combinations of Chemotherapeutics', *Journal of Materials Chemistry B*. in press. [[link]](https://pubs.rsc.org/en/content/articlehtml/2020/tb/d0tb00064g)"%}
+
+{% include figure image_path="/assets/images/langmuir2020.jpg" caption="**K. Shi**, E. E. Santiso and K. E. Gubbins, 'Conformal Sites Theory for Adsorbed Films on Energetically Heterogeneous Surfaces', *Langmuir*. in press. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b03633)" %}
+
+{% include figure image_path="/assets/images/DaiJMCA2020.jpg" caption="Z. Dai, D. Lee, **K. Shi**, S. Wang, H. Barton, J. Zhu, J. Yan, Q. Ke, G. Parsons, 'Fabrication of Freestanding Metal Organic Framework Predominant Hollow Fiber Mat and Its Potential Applications in Gas Separation and Catalysis', *Journal of Materials Chemistry A*. in press. [[link]](https://pubs.rsc.org/en/content/articlehtml/2020/ta/c9ta11701f)" %}
+
+{% include figure image_path="/assets/images/cutright_etal_ass_2019.jpg" caption="C. Cutright, Z. Brotherton, L. Alexandera, J. Harris, **K. Shi**, S. Khan, J. Genzer, S. Menegatti, 'Packing density, homogeneity, and regularity: quantitative correlations between topology and thermoresponsive morphology of PNIPAM-co-PAA microgel coatings', *Applied Surface Science*. 508 (2020) 145129. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0169433219339467)" %}
+
+## 2019
+{% include figure image_path="/assets/images/langmuir2019.png" caption="**K. Shi**, E.E. Santiso, K.E. Gubbins, 'Bottom-Up Approach to the Coarse-Grained Surface Model: Effective Solid–Fluid Potentials for Adsorption on Heterogeneous Surfaces', *Langmuir*. 35 (2019) 5975–5986. [[link]](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)" %}
+
+## 2018
+{% include figure caption="K.E. Gubbins, K. Gu, L. Huang, Y. Long, J.M. Mansell, E.E. Santiso, **K. Shi**, M. Śliwińska-Bartkowiak, D. Srivastava, 'Surface-Driven High-Pressure Processing', *Engineering*. 4 (2018) 311–320. [[link]](https://www.sciencedirect.com/science/article/pii/S2095809917308354)"%}
+
+{% include figure image_path="/assets/images/jcp2018.png" caption="**K. Shi**, K. Gu, Y. Shen, D. Srivastava, E.E. Santiso, K.E. Gubbins, 'High-density equation of state for a two-dimensional Lennard-Jones solid', *Journal of Chemical Physics*. 148 (2018) 174505. [[link]](https://aip.scitation.org/doi/abs/10.1063/1.5029488)"%}
+
+## 2016
+{% include figure image_path="/assets/images/ces2016.png" caption="Y. Xu, **K. Shi**, S. Zhao, X. Guo, J. Wang, 'Block length determines the adsorption dynamics mode of triblock copolymers to a hydrophobic surface', *Chemical Engineering Science*. 142 (2016) 180–189. [[link]](https://www.sciencedirect.com/science/article/pii/S0009250915007708)"%}
+
+## 2015
+{% include figure image_path="/assets/images/mp2015.png" caption="B. Zhan, **K. Shi**, Z. Dong, W. Lv, S. Zhao, X. Han, H. Wang, H. Liu, 'Coarse-grained simulation of polycation/DNA-like complexes: role of neutral block', *Molecular Pharmaceutics*. 12 (2015) 2834–2844. [[link]](https://pubs.acs.org/doi/abs/10.1021/mp500861c)"%}
+
+{% include figure image_path="/assets/images/ces2015.png" caption="**K. Shi**, C. Lian, Z. Bai, S. Zhao, H. Liu, 'Dissipative particle dynamics study of the water/benzene/caprolactam system in the absence or presence of non-ionic surfactants', *Chemical Engineering Science*. 122 (2015) 185–196. [[link]](https://www.sciencedirect.com/science/article/pii/S000925091400534X)"%}
+
