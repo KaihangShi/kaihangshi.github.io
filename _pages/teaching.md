@@ -3,7 +3,6 @@ layout: single
 title: "Teaching Experience"
 permalink: /teaching/
 date: 2020-04-26
-categories: pages
 ---
 
 **Guest Lecturer**, CHE315 Undergraduate Thermo I, NCSU, 2020 Spring.
