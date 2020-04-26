@@ -2,14 +2,14 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Publications"
     url: /publications/
   - title: "Awards"
     url: /awards/
-  #- title: "Resources"
-  #  url: /resources/
-  #- title: "CV"
-  #  url: /assets/docs/Kaihang_Shi_CV.pdf
+  - title: "Notes"
+    url: /notes/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
