@@ -10,7 +10,7 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2020
-{% include figure image_path="/assets/images/pccp_reply_2020.jpg" caption="Y. Long, J. C. Palmer, B. Coasne, **K. Shi**, M. Sliwinska-Bartkowiak and K. E. Gubbins, \"Reply to the Comment on \'Pressure enhancement in carbon nanopores: a major confinement effect\' by D. van Dijk, Phys. Chem. Chem. Phys., 2020, 22, DOI: 10.1039/C9CP02890K\". *Physical Chemistry Chemical Physics*, in press. [[link]](https://pubs-rsc-org.prox.lib.ncsu.edu/en/content/articlelanding/cp/2020/c9cp04289j#!divAbstract)"}
+{% include figure image_path="/assets/images/pccp_reply_2020.jpg" caption="Y. Long, J. C. Palmer, B. Coasne, **K. Shi**, M. Sliwinska-Bartkowiak and K. E. Gubbins, \"Reply to the \'Comment on \"Pressure enhancement in carbon nanopores: a major confinement effect\"\' by D. van Dijk, Phys. Chem. Chem. Phys., 2020, 22, DOI: 10.1039/C9CP02890K\". *Physical Chemistry Chemical Physics*, in press. [[link]](https://pubs-rsc-org.prox.lib.ncsu.edu/en/content/articlelanding/cp/2020/c9cp04289j#!divAbstract)"%}
 
 {% include figure image_path="/assets/images/jmcb2020.png" caption="J. D. Schneible, **K. Shi**, A. T. Young, S. Ramesh, N. He, C. E. Dowdey, R. L. Lilova, W. Gao, E. E. Santiso, M. Daniele and S. Menegatti, \"Modified Graphene Oxide (GO) Particles in Peptide Hydrogels: A Hybrid System Enabling Scheduled Delivery of Synergistic Combinations of Chemotherapeutics\", *Journal of Materials Chemistry B*, in press. [[link]](https://pubs.rsc.org/en/content/articlehtml/2020/tb/d0tb00064g)"%}
 
