@@ -10,7 +10,7 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2020
-{% include figure image_path="/assets/images/acsapm2020.jpg" caption="S. Wang, **K. Shi**, A. Tripathi, U. Chakraborty, G. N. Parsons, S. A. Khan, \"Designing PIM-1 Microfibers with Tunable Morphology and Porosity via Controlling Solvent/Nonsolvent/Polymer Interactions\". *ACS Applied Polymer Materials*, on-line. [[link]](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00386)"%}
+{% include figure image_path="/assets/images/acsapm2020.jpg" caption="S. Wang, **K. Shi**, A. Tripathi, U. Chakraborty, G. N. Parsons, S. A. Khan, \"Designing PIM-1 Microfibers with Tunable Morphology and Porosity via Controlling Solvent/Nonsolvent/Polymer Interactions\". *ACS Applied Polymer Materials*, online. [[link]](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00386)"%}
 
 {% include figure image_path="/assets/images/pccp_reply_2020.jpg" caption="Y. Long, J. C. Palmer, B. Coasne, **K. Shi**, M. Sliwinska-Bartkowiak and K. E. Gubbins, \"Reply to the \'Comment on \"Pressure enhancement in carbon nanopores: a major confinement effect\"\' by D. van Dijk, Phys. Chem. Chem. Phys., 2020, 22, DOI: 10.1039/C9CP02890K\". *Physical Chemistry Chemical Physics*, 22 (2020) 9826-9830. [[link]](https://pubs-rsc-org.prox.lib.ncsu.edu/en/content/articlelanding/cp/2020/c9cp04289j#!divAbstract)"%}
 
