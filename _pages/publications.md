@@ -3,16 +3,18 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals."
 permalink: /publications/
-date: 2020-04-27
+date: 2020-05-22
 categories: pages
 toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2020
-{% include figure image_path="/assets/images/pccp_reply_2020.jpg" caption="Y. Long, J. C. Palmer, B. Coasne, **K. Shi**, M. Sliwinska-Bartkowiak and K. E. Gubbins, \"Reply to the \'Comment on \"Pressure enhancement in carbon nanopores: a major confinement effect\"\' by D. van Dijk, Phys. Chem. Chem. Phys., 2020, 22, DOI: 10.1039/C9CP02890K\". *Physical Chemistry Chemical Physics*, in press. [[link]](https://pubs-rsc-org.prox.lib.ncsu.edu/en/content/articlelanding/cp/2020/c9cp04289j#!divAbstract)"%}
+{% include figure image_path="/assets/images/acsapm2020.jpg" caption="S. Wang, **K. Shi**, A. Tripathi, U. Chakraborty, G. N. Parsons, S. A. Khan, \"Designing PIM-1 Microfibers with Tunable Morphology and Porosity via Controlling Solvent/Nonsolvent/Polymer Interactions\". *ACS Applied Polymer Materials*, on-line. [[link]](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00386)"%}
 
-{% include figure image_path="/assets/images/jmcb2020.png" caption="J. D. Schneible, **K. Shi**, A. T. Young, S. Ramesh, N. He, C. E. Dowdey, R. L. Lilova, W. Gao, E. E. Santiso, M. Daniele and S. Menegatti, \"Modified Graphene Oxide (GO) Particles in Peptide Hydrogels: A Hybrid System Enabling Scheduled Delivery of Synergistic Combinations of Chemotherapeutics\", *Journal of Materials Chemistry B*, in press. [[link]](https://pubs.rsc.org/en/content/articlehtml/2020/tb/d0tb00064g)"%}
+{% include figure image_path="/assets/images/pccp_reply_2020.jpg" caption="Y. Long, J. C. Palmer, B. Coasne, **K. Shi**, M. Sliwinska-Bartkowiak and K. E. Gubbins, \"Reply to the \'Comment on \"Pressure enhancement in carbon nanopores: a major confinement effect\"\' by D. van Dijk, Phys. Chem. Chem. Phys., 2020, 22, DOI: 10.1039/C9CP02890K\". *Physical Chemistry Chemical Physics*, 22 (2020) 9826-9830. [[link]](https://pubs-rsc-org.prox.lib.ncsu.edu/en/content/articlelanding/cp/2020/c9cp04289j#!divAbstract)"%}
+
+{% include figure image_path="/assets/images/jmcb2020.png" caption="J. D. Schneible, **K. Shi**, A. T. Young, S. Ramesh, N. He, C. E. Dowdey, R. L. Lilova, W. Gao, E. E. Santiso, M. Daniele and S. Menegatti, \"Modified Graphene Oxide (GO) Particles in Peptide Hydrogels: A Hybrid System Enabling Scheduled Delivery of Synergistic Combinations of Chemotherapeutics\", *Journal of Materials Chemistry B*, 8 (2020) 3852-3868. [[link]](https://pubs.rsc.org/en/content/articlehtml/2020/tb/d0tb00064g)"%}
 
 {% include figure image_path="/assets/images/langmuir2020.jpg" caption="**K. Shi**, E. E. Santiso and K. E. Gubbins, \"Conformal Sites Theory for Adsorbed Films on Energetically Heterogeneous Surfaces\", *Langmuir*, 36 (2020) 1822-1838. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b03633)" %}
 
