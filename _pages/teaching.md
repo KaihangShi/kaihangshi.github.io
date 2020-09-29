@@ -5,8 +5,6 @@ permalink: /teaching/
 date: 2020-04-26
 categories: pages
 ---
-<br />
-
 ## North Carolina State University
 **Guest Lecturer**, CHE315 Undergraduate Thermo I, 2020 Spring.
 - Presented 3 independent 50-minite lectures on the classical thermodynamics.
