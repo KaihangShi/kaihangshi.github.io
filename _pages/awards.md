@@ -15,7 +15,7 @@ toc_icon: "columns"
 - **[FOMMS Poster Prize](https://www.cbe.ncsu.edu/blog/2018/09/15/alum-dr-feng-he-and-graduate-students-vasudev-haribal-kaihang-shi-received-important-awards/)**, **2018**.
 >“A ‘2D Route’ to the Effective Tangential Pressure in Adsorbed Films: High-Density Equation of State for a Two-Dimensional Lennard-Jones Solid”, presented at Foundations of Molecular Modeling and Simulation (FOMMS), Delavan, WI, USA, July 18, 2018.
 
-- **[Outstanding Poster Presentation Prize](http://cpm8.rutgers.edu/gallery/cpm8/94.JPG)**, **2018**.
+- **[Outstanding Poster Presentation Prize](http://kaihangshi.github.io/assets/images/poster.JPG)**, **2018**.
 >“Conformal Sites Model for Adsorbed Films on Energetically Heterogeneous Surfaces”, presented at 8th International Workshop on Characterization of Porous Materials (CPM8), Delray Beach, FL, USA, May 7, 2018.
 
 - ***Cheng Siwei (成思危)* Chancellor’s Fellowship**, ECUST, **2014**.
