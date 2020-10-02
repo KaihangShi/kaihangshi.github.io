@@ -25,4 +25,4 @@ categories: pages
 
 
 ## Teaching Resources
-I created the [interactive 3D models](https://sketchfab.com/kshi/collections/3d-high-pressure-phase-diagram) that could help students visualize the complex shape of the high-pressure phase diagram.
+I created some [interactive 3D models](https://sketchfab.com/kshi/collections/3d-high-pressure-phase-diagram) that could help students visualize the complex shape of the high-pressure phase diagram.
