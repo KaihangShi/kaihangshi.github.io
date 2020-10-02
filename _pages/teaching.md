@@ -24,4 +24,5 @@ categories: pages
 **Teaching Assistant**, CHE331 Chemical Engineering Lab II, 2016 Spring.
 
 
-
+## Teaching Resources
+I created the ( that could help students visualize the complex shape of the high-pressure phase diagram.
