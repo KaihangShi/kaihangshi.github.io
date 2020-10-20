@@ -9,10 +9,10 @@ toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
-### Book Chapter
+# Book Chapter
 [1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press.  
 
-### Peer-reviewed Journals
+# Peer-reviewed Journals
 ## 2020
 {% include figure image_path="/assets/images/jctc2020.png" caption="[13] **K. Shi**, Y. Shen, E. E. Santiso, K. E. Gubbins, \"Microscopic Pressure Tensor in Cylindrical Geometry: Pressure of Water in a Carbon Nanotube\". *Journal of Chemical Theory and Computation*, 16 (2020) 5548-5561. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00607)"%}
 
