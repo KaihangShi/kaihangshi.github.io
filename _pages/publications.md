@@ -9,11 +9,11 @@ toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
-# Book Chapter
-[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press.  
+## Book Chapter
+{% include figure caption="[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press."%}
 
-# Peer-reviewed Journals
-## 2020
+## Peer-reviewed Journals
+### 2020
 {% include figure image_path="/assets/images/jctc2020.png" caption="[13] **K. Shi**, Y. Shen, E. E. Santiso, K. E. Gubbins, \"Microscopic Pressure Tensor in Cylindrical Geometry: Pressure of Water in a Carbon Nanotube\". *Journal of Chemical Theory and Computation*, 16 (2020) 5548-5561. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00607)"%}
 
 {% include figure image_path="/assets/images/acsapm2020.jpg" caption="[12] S. Wang, **K. Shi**, A. Tripathi, U. Chakraborty, G. N. Parsons, S. A. Khan, \"Designing PIM-1 Microfibers with Tunable Morphology and Porosity via Controlling Solvent/Nonsolvent/Polymer Interactions\". *ACS Applied Polymer Materials*, 2 (2020) 2434-2443. [[link]](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00386)"%}
@@ -28,19 +28,19 @@ toc_icon: "columns"
 
 {% include figure image_path="/assets/images/cutright_etal_ass_2019.jpg" caption="[7] C. Cutright, Z. Brotherton, L. Alexandera, J. Harris, **K. Shi**, S. Khan, J. Genzer, S. Menegatti, \"Packing density, homogeneity, and regularity: quantitative correlations between topology and thermoresponsive morphology of PNIPAM-co-PAA microgel coatings\", *Applied Surface Science*, 508 (2020) 145129. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0169433219339467)" %}
 
-## 2019
+### 2019
 {% include figure image_path="/assets/images/langmuir2019.png" caption="[6] **K. Shi**, E.E. Santiso, K.E. Gubbins, \"Bottom-Up Approach to the Coarse-Grained Surface Model: Effective Solid–Fluid Potentials for Adsorption on Heterogeneous Surfaces\", *Langmuir*, 35 (2019) 5975–5986. [[link]](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b00440)" %}
 
-## 2018
+### 2018
 {% include figure caption="[5] K.E. Gubbins, K. Gu, L. Huang, Y. Long, J.M. Mansell, E.E. Santiso, **K. Shi**, M. Śliwińska-Bartkowiak, D. Srivastava, \"Surface-Driven High-Pressure Processing\", *Engineering*, 4 (2018) 311–320. [[link]](https://www.sciencedirect.com/science/article/pii/S2095809917308354)"%}
 
 {% include figure image_path="/assets/images/jcp2018.png" caption="[4] **K. Shi**, K. Gu, Y. Shen, D. Srivastava, E.E. Santiso, K.E. Gubbins, \"High-density equation of state for a two-dimensional Lennard-Jones solid\", *Journal of Chemical Physics*, 148 (2018) 174505. [[link]](https://aip.scitation.org/doi/abs/10.1063/1.5029488)"%}
 
-## 2016
+### 2016
 {% include figure image_path="/assets/images/ces2016.png" caption="[3] Y. Xu, **K. Shi**, S. Zhao, X. Guo, J. Wang, \"Block length determines the adsorption dynamics mode of triblock copolymers to a hydrophobic surface\", *Chemical Engineering Science*, 142 (2016) 180–189. [[link]](https://www.sciencedirect.com/science/article/pii/S0009250915007708)"%}
 
-## 2015
-[2] {% include figure image_path="/assets/images/mp2015.png" caption="[2] B. Zhan, **K. Shi**, Z. Dong, W. Lv, S. Zhao, X. Han, H. Wang, H. Liu, \"Coarse-grained simulation of polycation/DNA-like complexes: role of neutral block\", *Molecular Pharmaceutics*, 12 (2015) 2834–2844. [[link]](https://pubs.acs.org/doi/abs/10.1021/mp500861c)"%}
+### 2015
+{% include figure image_path="/assets/images/mp2015.png" caption="[2] B. Zhan, **K. Shi**, Z. Dong, W. Lv, S. Zhao, X. Han, H. Wang, H. Liu, \"Coarse-grained simulation of polycation/DNA-like complexes: role of neutral block\", *Molecular Pharmaceutics*, 12 (2015) 2834–2844. [[link]](https://pubs.acs.org/doi/abs/10.1021/mp500861c)"%}
 
 {% include figure image_path="/assets/images/ces2015.png" caption="[1] **K. Shi**, C. Lian, Z. Bai, S. Zhao, H. Liu, \"Dissipative particle dynamics study of the water/benzene/caprolactam system in the absence or presence of non-ionic surfactants\", *Chemical Engineering Science*, 122 (2015) 185–196. [[link]](https://www.sciencedirect.com/science/article/pii/S000925091400534X)"%}
 
