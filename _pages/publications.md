@@ -6,7 +6,7 @@ permalink: /publications/
 date: 2020-10-20
 categories: pages
 toc: true
-toc_label: "Years"
+toc_label: "Category"
 toc_icon: "columns"
 ---
 ## Book Chapter
