@@ -35,7 +35,7 @@ toc_icon: "columns"
 - **Mentored Teaching Fellowships**, College of Engineering, NCSU, **2016-2018 Fall semester**.
 > Providing ten outstanding graduate students per semester with extensive teaching experience beyond that of a regular teaching assistant prior to entering an academic career.
 
-- **[Praxair Exceptional Teaching Assistant Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)**, Praxair, Inc. & NCSU, **2016 Fall**.
+- **[Praxair Exceptional Teaching Assistant Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)**, Praxair, Inc. (now Linde plc) & NCSU, **2016 Fall**.
 > Recognizing the instructional effectiveness and class management of Ph.D. candidates serving as exemplary teaching assistants in the Department of Chemical & Biomolecular Engineering. Recipients of this Award go above and beyond the call of duty by providing their students with tireless and selfless attention to high-quality instruction and professionalism. 
 
 ## Travel
