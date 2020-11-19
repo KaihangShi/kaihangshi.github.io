@@ -14,7 +14,7 @@ toc_icon: "columns"
 
 ## Peer-reviewed Journals
 ### 2020
-{% include figure image_path="/assets/images/jcp2020.jpg" caption="[13] P. Montero de Hijes, **K. Shi**, E. G. Noya, E. E. Santiso, K. E. Gubbins, E. Sanz and C. Vega, \"The Young–Laplace equation for a solid–liquid interface\". *Journal of Chemical Physics*, 153 (2020) 191102. [[link]](https://aip.scitation.org/doi/10.1063/5.0032602)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Hijes_jcp_2020.pdf)"%}
+{% include figure image_path="/assets/images/jcp2020.jpg" caption="[14] P. Montero de Hijes, **K. Shi**, E. G. Noya, E. E. Santiso, K. E. Gubbins, E. Sanz and C. Vega, \"The Young–Laplace equation for a solid–liquid interface\". *Journal of Chemical Physics*, 153 (2020) 191102. [[link]](https://aip.scitation.org/doi/10.1063/5.0032602)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Hijes_jcp_2020.pdf)"%}
 
 {% include figure image_path="/assets/images/jctc2020.png" caption="[13] **K. Shi**, Y. Shen, E. E. Santiso, K. E. Gubbins, \"Microscopic Pressure Tensor in Cylindrical Geometry: Pressure of Water in a Carbon Nanotube\". *Journal of Chemical Theory and Computation*, 16 (2020) 5548-5561. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00607)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_jctc_2020.pdf)"%}
 
