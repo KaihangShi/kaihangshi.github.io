@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals and books."
 permalink: /publications/
-date: 2020-10-20
+date: 2020-11-19
 categories: pages
 toc: true
 toc_label: "Category"
