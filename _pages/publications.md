@@ -14,6 +14,8 @@ toc_icon: "columns"
 
 ## Peer-reviewed Journals
 ### 2020
+{% include figure image_path="/assets/images/jcp2020.jpg" caption="[13] P. Montero de Hijes, **K. Shi**, E. G. Noya, E. E. Santiso, K. E. Gubbins, E. Sanz and C. Vega, \"The Young–Laplace equation for a solid–liquid interface\". *Journal of Chemical Physics*, 153 (2020) 191102. [[link]](https://aip.scitation.org/doi/10.1063/5.0032602)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Hijes_jcp_2020.pdf)"%}
+
 {% include figure image_path="/assets/images/jctc2020.png" caption="[13] **K. Shi**, Y. Shen, E. E. Santiso, K. E. Gubbins, \"Microscopic Pressure Tensor in Cylindrical Geometry: Pressure of Water in a Carbon Nanotube\". *Journal of Chemical Theory and Computation*, 16 (2020) 5548-5561. [[link]](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00607)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_jctc_2020.pdf)"%}
 
 {% include figure image_path="/assets/images/acsapm2020.jpg" caption="[12] S. Wang, **K. Shi**, A. Tripathi, U. Chakraborty, G. N. Parsons, S. A. Khan, \"Designing PIM-1 Microfibers with Tunable Morphology and Porosity via Controlling Solvent/Nonsolvent/Polymer Interactions\". *ACS Applied Polymer Materials*, 2 (2020) 2434-2443. [[link]](https://pubs.acs.org/doi/abs/10.1021/acsapm.0c00386)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Wang_acsapm_2020.pdf)"%}
