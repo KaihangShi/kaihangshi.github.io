@@ -23,13 +23,7 @@ toc_icon: "columns"
 
 - **Special Prize for Academic Excellence (top 1%)**, ECUST, **2014**.
 - **Honorable Mention**, Mathematical Contest in Modeling, USA, **2014**.
-- **Sunrise Social Scholarship**, Sunrise Chemical Co., Ltd., Shanghai, China, **2013**.
 -	**3rd Prize**, Contemporary Undergraduate Math. Contest in Modeling, Shanghai, China, **2013**.
--	**3rd Prize**, The 3rd Dow-ECUST Architectural Coatings Innovation Contest, ECUST, **2013**.
-- **Qiliu Social Scholarship**, ECUST, **2012**.
--	**1st Prize**, Mathematical Contest, ECUST, **2012**.
--	**1st Prize for Academic Excellence (top 3%)**, ECUST, **2012**.
-
 
 ## Teaching
 - **Mentored Teaching Fellowships**, College of Engineering, NCSU, **2016-2018 Fall semester**.
