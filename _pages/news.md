@@ -15,7 +15,7 @@ toc_icon: "columns"
 **November**
 - I was invited to give a 110-minute guest lecture in the course *Molecular Simulation of Materials* in Civil and Environmental Engineering, Carnegie Mellon University.
 - The paper in collaboration with Prof. Carlos Vega's group has been published in *Journal of Chemical Physics*. The title is "The Young–Laplace equation for a solid–liquid interface".
-- I gave a pre-recorded talk at the 2020 AIChE Annual Meeting and I had great time meeting old and new friends there virtually!
+- I gave a pre-recorded talk at the 2020 AIChE Annual Meeting and I had a great time meeting some friends there virtually!
 
 **October**
 - I gave a virtual poster on MOFdb at the 2020 Nanoporous Materials Genome Center (NMGC) All-Hands Meeting.  
