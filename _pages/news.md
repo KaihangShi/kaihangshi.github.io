@@ -8,6 +8,10 @@ toc: true
 toc_label: "Year"
 toc_icon: "columns"
 ---
+## 2021
+**January**
+- I was accepted as a AAAS member through the *AAAS/Science Program for Excellence in Science*. This program provides me with a one-year membership for AAAS, which includes a subscription to the digital version of Science at no cost to me.
+
 ## 2020
 **December** 
 - I was invited to give a talk on the uniqueness of the microscopic pressure tensor at the [Statistical Mechanics & Molecular Simulations (STMS) Seminar Series](https://lu.ma/qyzdeu6p), hosted by Prof. Amir Haji-Akbari (Yale) and Prof. Sapna Sarupria (Minnesota).
