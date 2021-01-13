@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## 2021
 **January**
-- I was accepted as a AAAS member through the *AAAS/Science Program for Excellence in Science*. This program provides me with a one-year membership for AAAS, which includes a free subscription to the digital version of Science.
+- I was accepted as a AAAS member through the *AAAS/Science Program for Excellence in Science*. This program provides me with a one-year membership for AAAS, which includes a free subscription to the digital version of Journal *Science*.
 
 ## 2020
 **December** 
