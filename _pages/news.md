@@ -22,7 +22,7 @@ toc_icon: "columns"
 - I gave a pre-recorded talk at the 2020 AIChE Annual Meeting and I had a great time meeting some friends there virtually!
 
 **October**
-- I gave a virtual poster on MOFdb at the 2020 Nanoporous Materials Genome Center (NMGC) All-Hands Meeting.  
+- I gave a virtual poster on [MOFdb](https://mof.tech.northwestern.edu/) at the 2020 Nanoporous Materials Genome Center (NMGC) All-Hands Meeting.  
 
 **August**
 - I joined Prof. Randy Snurr's group at Northwestern University as a postdoc fellow!
