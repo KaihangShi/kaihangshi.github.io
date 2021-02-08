@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "columns"
 ---
 ## Book Chapter
-{% include figure caption="[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press."%}
+{% include figure image_path="/assets/images/book_chapter.jpg" caption="[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press."%}
 
 ## Peer-reviewed Journals
 ### 2020
