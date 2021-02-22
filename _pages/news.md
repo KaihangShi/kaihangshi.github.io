@@ -2,7 +2,7 @@
 layout: single
 title: "News"
 permalink: /news/
-date: 2021-1-10
+date: 2021-2-22
 categories: pages
 toc: true
 toc_label: "Year"
