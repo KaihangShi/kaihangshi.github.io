@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals and books."
 permalink: /publications/
-date: 2020-11-19
+date: 2021-2-22
 categories: pages
 toc: true
 toc_label: "Category"
@@ -13,6 +13,9 @@ toc_icon: "columns"
 {% include figure image_path="/assets/images/book_chapter.jpg" caption="[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press."%}
 
 ## Peer-reviewed Journals
+### 2021
+{% include figure image_path="/assets/images/Shi_JCP_2021.jpg" caption="[15] **K. Shi**, E. E. Santiso, and K. E. Gubbins, \"Can we define a unique microscopic pressure in inhomogeneous fluids?\". *Journal of Chemical Physics*, 154 (2021) 084502. [[link]](https://aip.scitation.org/doi/10.1063/5.0044487)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf)"%}
+
 ### 2020
 {% include figure image_path="/assets/images/jcp2020.jpg" caption="[14] P. Montero de Hijes, **K. Shi**, E. G. Noya, E. E. Santiso, K. E. Gubbins, E. Sanz and C. Vega, \"The Young–Laplace equation for a solid–liquid interface\". *Journal of Chemical Physics*, 153 (2020) 191102. [[link]](https://aip.scitation.org/doi/10.1063/5.0032602)[[PDF]](http://kaihangshi.github.io/assets/docs/paper/Hijes_jcp_2020.pdf)"%}
 
