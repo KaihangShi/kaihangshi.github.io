@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## 2021
 **February**
-- My first-author paper has been published in the Journal of Chemical Physics. The title is "Can we define a unique microscopic pressure in inhomogeneous fluids?". In this paper, for the first time, we show strong evidence that it is possible to define a unique microscopic pressure, which has been considered as an ambiguous property since 1950.
+- My first-author paper has been published in the Journal of Chemical Physics. The title is "Can we define a unique microscopic pressure in inhomogeneous fluids?" [[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf). In this paper, for the first time, we show strong evidence that it is possible to define a unique microscopic pressure, a quantity that has been considered ambiguous since 1950.
 
 **January**
 - I was accepted as a AAAS member through the *AAAS/Science Program for Excellence in Science*. This program provides me with a one-year membership for AAAS, which includes a free subscription to the digital version of Journal *Science*.
