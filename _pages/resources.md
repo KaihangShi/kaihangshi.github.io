@@ -11,7 +11,7 @@ toc_icon: "columns"
 ## Codes
 [MMoCa](https://github.com/KaihangShi/MMoCa), a **M**ulti-purpose **Mo**nte **Ca**rlo simulation package for molecular systems.
 
-[Cylindrical-Pressure-Tensor](https://github.com/KaihangShi/Cylindrical-Pressure-Tensor), post-analysis code for calculating the local pressure tensor in cylindrical geometries.
+[Cylindrical-Pressure-Tensor](https://github.com/KaihangShi/Cylindrical-Pressure-Tensor), a post-analysis code for calculating the local pressure tensor in cylindrical geometries.
 
 [IAST](https://github.com/KaihangShi/IAST), a MATLAB code for the Ideal Adsorbed Solution Theory (IAST) calculation, based on the original model by Myer & Prausnitz (1965).
 
