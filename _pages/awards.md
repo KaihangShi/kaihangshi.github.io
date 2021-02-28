@@ -22,11 +22,11 @@ toc_icon: "columns"
 > The highest university-wide annual award recognizing undergraduate, master and doctoral students who have won high reputation or made important contributions to the university and the country.
 
 - **Special Prize for Academic Excellence (top 1%)**, ECUST, **2014**.
-- **Honorable Mention**, Mathematical Contest in Modeling, USA, **2014**.
+- **[Honorable Mention](http://kaihangshi.github.io/assets/docs/awards/MCM2014_certificate.pdf)**, Mathematical Contest in Modeling, USA, **2014**.
 -	**3rd Prize**, Contemporary Undergraduate Math. Contest in Modeling, Shanghai, China, **2013**.
 
 ## Teaching
-- **Mentored Teaching Fellowships**, College of Engineering, NCSU, **2016-2018 Fall semester**.
+- **[Mentored Teaching Fellowships](http://kaihangshi.github.io/assets/docs/awards/MTF.pdf)**, College of Engineering, NCSU, **2016-2018 Fall semester**.
 > Providing ten outstanding graduate students per semester with extensive teaching experience beyond that of a regular teaching assistant prior to entering an academic career.
 
 - **[Praxair Exceptional Teaching Assistant Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)**, Praxair, Inc. (now Linde plc) & NCSU, **2016 Fall**.
