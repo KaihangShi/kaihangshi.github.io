@@ -9,6 +9,9 @@ toc_label: "Year"
 toc_icon: "columns"
 ---
 ## 2021
+**March**
+- I was chosen as the winner for the [2020 James K. Ferrell Outstanding Ph.D. Graduate Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)! This award recognizes an outstanding graduate of CBE Ph.D. program who distinguishes him/herself in scholarship, teaching and service. The winner of the Award will be invited to deliver a five-minute talk at the departmental graduation ceremony in May.  
+
 **February**
 - My first-author paper has been published in the *Journal of Chemical Physics*. The title is "Can we define a unique microscopic pressure in inhomogeneous fluids?" [[PDF]](http://kaihangshi.github.io/assets/docs/paper/Shi_JCP_2021.pdf). In this paper, for the first time, we show strong evidence that it is possible to define a unique microscopic pressure, a property that has been considered ambiguous at the nanoscale since 1950.
 
