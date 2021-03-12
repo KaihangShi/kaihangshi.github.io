@@ -3,14 +3,14 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals and books."
 permalink: /publications/
-date: 2021-2-22
+date: 2021-3-12
 categories: pages
 toc: true
 toc_label: "Category"
 toc_icon: "columns"
 ---
 ## Book Chapter
-{% include figure image_path="/assets/images/book_chapter.jpg" caption="[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, in *Porous Materials: Theory and its Application for Environmental Remediation*, Springer, in press."%}
+{% include figure image_path="/assets/images/book_chapter.jpg" caption="[1] **K. Shi**, E. E. Santiso, K. E. Gubbins, “Current Advances in Characterization of Nano-porous Materials: Pore Size Distribution and Surface Area”, Chapter 12 in *Porous Materials: Theory and Its Application for Environmental Remediation*, Springer, 2021. [[link]](https://link.springer.com/book/10.1007/978-3-030-65991-2)[[PDF_Chapter12]](http://kaihangshi.github.io/assets/docs/book/PorousMaterials_Chap12_2021.pdf)[[PDF_full_book]](http://kaihangshi.github.io/assets/docs/book/PorousMaterials_2021.pdf)"%}
 
 ## Peer-reviewed Journals
 ### 2021
