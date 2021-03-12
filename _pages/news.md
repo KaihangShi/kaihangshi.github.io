@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## 2021
 **March**
-- My first-authored book chapter on the current advances in characterization of nano-porous materials just got published online and here is the [link to the full book](https://link.springer.com/book/10.1007/978-3-030-65991-2)! My chapter [[PDF]](http://kaihangshi.github.io/assets/docs/book/PorousMaterials_Chap12_2021.pdf) focuses particularly on characterization of pore size distribution and specific surface area of porous materials. Classical methods, modern molecular methods and those related to machine learning techniques are all discussed! 
+- My first-authored book chapter on the current advances in characterization of nano-porous materials just got published online and here is the link to the [full book](https://link.springer.com/book/10.1007/978-3-030-65991-2)! My chapter [[PDF]](http://kaihangshi.github.io/assets/docs/book/PorousMaterials_Chap12_2021.pdf) focuses particularly on characterization of pore size distribution and specific surface area of porous materials. Classical methods, modern molecular methods and those related to machine learning techniques are all discussed! 
 - I was chosen as the winner for the [2020 James K. Ferrell Outstanding Ph.D. Graduate Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)! This award recognizes an outstanding graduate of CBE Ph.D. program who distinguishes him/herself in scholarship, teaching and service. The winner of the Award will be invited to deliver a five-minute talk at the departmental graduation ceremony in May.  
 
 **February**
