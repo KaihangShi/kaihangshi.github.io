@@ -29,7 +29,7 @@ toc_icon: "columns"
 -	**3rd Prize**, Contemporary Undergraduate Math. Contest in Modeling, Shanghai, China, **2013**.
 
 ## Teaching
-- **[Mentored Teaching Fellowships](http://kaihangshi.github.io/assets/docs/awards/MTF.pdf)**(x3), College of Engineering, NCSU, **2016-2018 Fall semester**.
+- **[Mentored Teaching Fellowships](http://kaihangshi.github.io/assets/docs/awards/MTF.pdf)** (x3), College of Engineering, NCSU, **2016-2018 Fall semester**.
 > Providing ten outstanding graduate students per semester with extensive teaching experience beyond that of a regular teaching assistant prior to entering an academic career.
 
 - **[Praxair Exceptional Teaching Assistant Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)**, Praxair, Inc. (now Linde plc) & NCSU, **2016 Fall**.
