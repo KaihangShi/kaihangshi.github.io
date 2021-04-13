@@ -17,7 +17,7 @@ toc_icon: "columns"
 
 
 ## Notes
-*Here are some notes I wrote to clarify the concepts and confusions on different topics. If you spot any errors in my notes, please feel free to contact me at kshi3@ncsu.edu!*
+*Here are some notes I wrote to clarify the concepts and confusions on different topics. If you spot any errors in my notes, please feel free to contact me at kaihangshi0@gmail.com!*
 
 [Theory behind the string method in collective variables](http://kaihangshi.github.io/assets/docs/smcv.pdf)
 
