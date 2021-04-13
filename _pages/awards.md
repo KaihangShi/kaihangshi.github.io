@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## Academic
 - **[2020 James K. Ferrell Outstanding Ph.D. Graduate Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)**, NCSU, **2021**.
->Recognizing an outstanding graduate of Chemical Engineering Ph.D. program who distinguishes him/herself in scholarship, teaching and service. One winner each calendar year. 
+>The most prestigious award for Ph.D. students in the Chemical Engineering Department, recognizing an outstanding Ph.D. graduate each calendar year who distinguishes him/herself in scholarship, teaching and service.
 
 - **[AIChE CoMSEF Graduate Student Award](http://comsef.org/gradawards)**, **2019**.
 >This national award recognizes significant contributions to research in computational molecular science and engineering by graduate students. 
