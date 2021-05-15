@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## 2021
 **May**
-- I was invited to give a talk at NCSU CBE's 2021 Spring virtual commencement ceremony. The full video can be found [here](https://www.youtube.com/watch?v=ZWm5DkHOJgU).
+- I was invited to give a talk at NCSU CBE's 2021 Spring virtual commencement ceremony. The full video can be found [here](https://www.youtube.com/watch?v=rq8V1pwWdTE).
 
 **March**
 - My first-authored book chapter on the current advances in characterization of nano-porous materials just got published online and here is the link to the [full book](https://link.springer.com/book/10.1007/978-3-030-65991-2)! My chapter [[PDF]](http://kaihangshi.github.io/assets/docs/book/PorousMaterials_Chap12_2021.pdf) focuses particularly on characterization of pore size distribution and specific surface area of porous materials. Classical methods, modern molecular methods and those related to machine learning techniques are all discussed! 
