@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## Academic
 - **[2020 James K. Ferrell Outstanding Ph.D. Graduate Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)**, NCSU, **2021**.
->The most prestigious award for Ph.D. students in the Chemical Engineering Department, recognizing an outstanding Ph.D. graduate each calendar year who distinguishes him/herself in scholarship, teaching and service. I was invited to give a speech at the 2021 Spring Commencement Ceremony ([YouTube link])(https://www.youtube.com/watch?v=rq8V1pwWdTE&t=1629s). 
+>The most prestigious award for Ph.D. students in the Chemical Engineering Department, recognizing an outstanding Ph.D. graduate each calendar year who distinguishes him/herself in scholarship, teaching and service. I was invited to give a speech at the 2021 Spring Commencement Ceremony ([YouTube link](https://www.youtube.com/watch?v=rq8V1pwWdTE&t=1629s)). 
 
 - **[AIChE CoMSEF Graduate Student Award](http://comsef.org/gradawards)**, **2019**.
 >This national award recognizes significant contributions to research in computational molecular science and engineering by graduate students. 
