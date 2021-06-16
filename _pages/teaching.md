@@ -6,7 +6,7 @@ date: 2020-11-30
 categories: pages
 ---
 ## Carnegie Mellon University
-**Guest Lecturer**, 12-623/24-623 Molecular Simulation of Materials, 2020 Fall.
+**Invited Lecturer**, 12-623/24-623 Molecular Simulation of Materials, 2020 Fall.
 - Invited to present a 110-minute lecture on the molecular simulation of microscopic pressure (stress) tensor.
 
 ## North Carolina State University
