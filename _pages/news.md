@@ -10,7 +10,7 @@ toc_icon: "columns"
 ---
 ## 2021
 **June**
-- I gave a virtual oral talk on "Two-Dimensional Energy Histograms as Features for Machine Learning to Predict Adsorption in Metal-Organic Frameworks" at 2021 Midwest Thermodynamics and Statistical Mechanics Conference. It was great to meet new and old friends there!
+- I gave a virtual oral talk on "Two-Dimensional Energy Histograms as Features for Machine Learning to Predict Adsorption in Metal-Organic Frameworks" at [2021 Midwest Thermodynamics and Statistical Mechanics Conference](https://mtsm.che.wisc.edu/). It was great to meet new and old friends there!
 
 **May**
 - I was invited to give a talk at NCSU CBE's 2021 Spring virtual commencement ceremony. The full video can be found [here](https://www.youtube.com/watch?v=rq8V1pwWdTE).
