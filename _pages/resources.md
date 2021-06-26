@@ -13,6 +13,8 @@ toc_icon: "columns"
 
 [Cylindrical Pressure Tensor](https://github.com/KaihangShi/Cylindrical-Pressure-Tensor), a post-analysis code for calculating the local pressure tensor in cylindrical geometries.
 
+[Spherical Pressure Tensor](https://github.com/KaihangShi/Spherical-Pressure-Tensor), a post-analysis code for calculating the local pressure tensor in spherical geometries.
+
 [Ternary Phase Diagram](https://github.com/KaihangShi/Ternary-Phase-Diagram), a MATLAB code to construct the ternary phase diagram for polymer/solvent/non-solvent system using Flory-Huggins theory.
 
 [IAST](https://github.com/KaihangShi/IAST), a MATLAB code for the Ideal Adsorbed Solution Theory (IAST) calculation, based on the original model by Myer & Prausnitz (1965).
