@@ -2,7 +2,7 @@
 layout: single
 title: "Resources"
 permalink: /resources/
-date: 2021-02-25
+date: 2021-6-25
 categories: pages
 toc: true
 toc_label: "Category"
