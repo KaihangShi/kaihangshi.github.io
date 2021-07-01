@@ -36,5 +36,5 @@ toc_icon: "columns"
 > Recognizing the instructional effectiveness and class management of Ph.D. candidates serving as exemplary teaching assistants in the Department of Chemical & Biomolecular Engineering. Recipients of this Award go above and beyond the call of duty by providing their students with tireless and selfless attention to high-quality instruction and professionalism. 
 
 ## Travel
-- **GSA Travel Assistance Award**, The Graduate Student Association, NCSU, **2019 Spring**.
+- **[GSA Travel Assistance Award](http://kaihangshi.github.io/assets/docs/awards/Shi_Kaihang_Spring2019AssistanceAward.pdf)**, The Graduate Student Association, NCSU, **2019 Spring**.
 - **NSF Travel Award**, 8th International Workshop on Characterization of Porous Materials (CPM8), Delray Beach, FL, USA, May 6-9, **2018**.
